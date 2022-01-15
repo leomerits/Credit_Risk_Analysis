@@ -2,6 +2,10 @@
 # Overview of the analysis: 
 In 2019, more than 19 million Americans had at least one unsecured personal loan. With the incredible growth, by using latest machine learning techniques, Fin Tech firms can continuesly analyze large amounts of data and predict trends to optimize lending. In this module we used Python to build and evaluate several machine learning models to predict credit risk.
 
+# Resources:
+- Data Source: credit_risk_resampling.ipynb, credit_risk_ensemble.ipynb, LoanStats_2019Q1.csv.
+- Software: Jupyter Notebook.
+
 # Results:
 Looking at the four modules, I can say that:
 - The Logistic Regression model using SMOTEEN combination re-sampler yeilded a better balanced accuracy score.
@@ -15,3 +19,4 @@ Looking at the four modules, I can say that:
 
 
 # Summary:
+In this module we were able with the help of the knowledge of machine learning, using varieties of credit related risk factors predict a potential client's credit risk. Also, using evaluation metrics like accuracy score, classification report and confusion matrix generated, we were able to compare models and determin which best suits a particular set of data.
