@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# CSV File
+LoanStats_2019Q1.cvs
+
+# Module Folder
+Module
+Resources
+
 # Distribution / packaging
 .Python
 build/
