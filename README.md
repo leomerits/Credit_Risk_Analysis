@@ -19,4 +19,4 @@ Looking at the four modules, I can say that:
 
 
 # Summary:
-In this module we were able with the help of the knowledge of machine learning, using varieties of credit related risk factors predict a potential client's credit risk. Also, using evaluation metrics like accuracy score, classification report and confusion matrix generated, we were able to compare models and determin which best suits a particular set of data.
+In this module we were able with the help of the knowledge of machine learning, using varieties of credit related risk factors predict a potential client's credit risk. Also, using evaluation metrics like accuracy score, classification report and confusion matrix generated, we were able to compare models and determine which best suits a particular set of data.
